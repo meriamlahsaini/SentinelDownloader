@@ -7,7 +7,6 @@ setup(
     package_dir={"": "src"},
     install_requires=[
         'pytest >= 6',
-        'sentineldownloader >= 0.0.0',
         'matplotlib >= 3',
         'setuptools >= 52.0.0',
         'sentinelsat >= 1.1.0',
